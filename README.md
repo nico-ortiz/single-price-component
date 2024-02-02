@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/nico-ortiz/single-price-component)
+- Live Site URL: [page](https://single-price-component-roan.vercel.app/)
 
 ## My process
 
