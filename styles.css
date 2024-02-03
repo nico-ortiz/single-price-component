@@ -119,6 +119,11 @@ body {
     cursor: pointer;
 }
 
+.item-2 .btn-sign-up:hover {
+    background-color: hsl(71, 97%, 42%);
+}
+
+
 .item-3 {
     background-color: var(--light-cyan);
     color: white;
