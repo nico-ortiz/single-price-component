@@ -29,7 +29,7 @@ body {
         'two'
         'three';
     
-
+    grid-auto-columns: 1fr;
     width: min(55%, 75rem);
     border-radius: 10px;
     background-color: white;
